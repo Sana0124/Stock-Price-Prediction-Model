@@ -15,6 +15,7 @@ Buy/Sell Signals: Generates buy and sell signals based on technical indicators.
 Python: The core programming language.
 
 TensorFlow/Keras: For building and training LSTM models.
+
 Pandas: For data manipulation and analysis.
 NumPy: For numerical computations.
 Matplotlib: For plotting and visualization.
